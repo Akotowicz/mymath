@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1522247700 source:c:\users\uczen.knot-02.000\desktop\122\mymath.cpp
+
+1522247969 source:c:\users\uczen.knot-02.000\desktop\122\main.cpp
+	<iostream>
+	"mymath.h"
+
+1522247777 c:\users\uczen.knot-02.000\desktop\122\mymath.h
+
